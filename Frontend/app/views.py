@@ -1,8 +1,5 @@
 from django.shortcuts import render
 from django.http import FileResponse
-import requests
-import io
-
 
 # Create your views here.
 endpoint = 'http://127.0.0.1:4000/'
