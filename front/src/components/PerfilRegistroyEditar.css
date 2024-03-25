@@ -1,0 +1,38 @@
+.Entreda {
+    width: 40%;
+    padding: 1em;
+    font-size: 16px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    resize: none;
+}
+
+.pRE {
+    color: #000000;
+    font-size: 30px;
+    font: "Times New Roman", Times, serif;
+}
+
+.editarPerfil {
+    padding-left: 50px;
+}
+
+.izquierda2{
+    float: left;
+    width: 20%;
+    padding: 10;
+    margin-left: 0%;
+}
+
+.centro2{
+    width: 25%;
+    margin-left: 50%;
+    margin-right: 20%;
+}
+
+.derecha2{
+    float: right;
+    width: 7%;
+    margin-right: 5%;
+}
